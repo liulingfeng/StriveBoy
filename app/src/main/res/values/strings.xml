@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StriveBoy</string>
+    <string name="icons">&#xe601;&#xe602;&#xe603;&#xe604;&#xe605;&#xe606;&#xe607;&#xe608;</string>
+    <string name="love">&#xe600;</string>
 </resources>
